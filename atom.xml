@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://2043135781.GitHub.io/</id>
     <title>杨杨</title>
-    <updated>2022-02-20T14:54:22.040Z</updated>
+    <updated>2022-02-20T14:56:28.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://2043135781.GitHub.io/"/>
     <link rel="self" href="https://2043135781.GitHub.io/atom.xml"/>
@@ -11,12 +11,14 @@
     <icon>https://2043135781.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 杨杨</rights>
     <entry>
-        <title type="html"><![CDATA[123]]></title>
+        <title type="html"><![CDATA[大傻逼]]></title>
         <id>https://2043135781.GitHub.io/post/123/</id>
         <link href="https://2043135781.GitHub.io/post/123/">
         </link>
         <updated>2022-02-20T14:41:17.000Z</updated>
-        <content type="html"><![CDATA[<p>😀😀</p>
+        <content type="html"><![CDATA[<p>谁是大傻逼<br>
+哦<br>
+是余芃辉</p>
 ]]></content>
     </entry>
 </feed>
